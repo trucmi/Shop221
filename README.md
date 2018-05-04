@@ -1,18 +1,22 @@
 # iesa-2018-b3-mobile-project
 
 Nom du Groupe: LOST
+Nom de l'App: ARES
 
 Membres: Solenne Daguerre, Truc-Mi Doan, Kevin Zidouh Vernanchet, Mathieu Lubert
 
 Pitch: 
+Application à destination des employés en charge de réaliser certaines tâches professionnelles telles que nettoyer des lieux, ranger des stocks etc.. L'application permet à leurs responsables (ici chefs de chantier) de valider ou non leur travail achevé grâce à des photos prises sur le lieu-même. 
 
-Reinsertion dans le monde du travail, pour surveiller les travaux effectuer par le Chef de Chantier 
+Caméra : Photo des objets/lieux/tâches finalisés
 
+Géolocalisation : Géolocalisation du lieu de travail
 
-Photo des objets/lieux
-Géolocalisation de ce lieu/de cet objet
 Contact : chef de chantier par exemple, pour contacter, valider, vérifier l’audit
-Microphone : enregistrer un audit
+
+Microphone : enregistrer un audit (description à voix haute)
+
+Hauts-parleurs : écoute de l'audit/des indications à l'oral
 
 
 Liens: 
