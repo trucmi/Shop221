@@ -1,8 +1,8 @@
 # iesa-2018-b3-mobile-project
 
-Nom de Groupe: LOST
+Nom du Groupe: LOST
 
-Membres: Solenne Daguerre, Truc-mi Doan, Kevin Zidouh Vernanchet, Mathieu Lubert
+Membres: Solenne Daguerre, Truc-Mi Doan, Kevin Zidouh Vernanchet, Mathieu Lubert
 
 Pitch: 
 
