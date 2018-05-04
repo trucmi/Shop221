@@ -1,6 +1,7 @@
 # iesa-2018-b3-mobile-project
 
 Nom du Groupe: LOST
+Nom de l'App: ARES
 
 Membres: Solenne Daguerre, Truc-Mi Doan, Kevin Zidouh Vernanchet, Mathieu Lubert
 
