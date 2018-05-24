@@ -8,6 +8,7 @@
 - Truc-Mi Doan
 - Kevin Zidouh Vernanchet
 - Mathieu Lubert
+- Adel Remki
 
 **Pitch:** 
 Application à destination des employés en charge de réaliser certaines tâches professionnelles telles que nettoyer des lieux, ranger des stocks etc.. L'application permet à leurs responsables (ici chefs de chantier) de valider ou non leur travail achevé grâce à des photos prises sur le lieu-même. 
