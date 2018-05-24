@@ -21,7 +21,9 @@ export class ItemCreatePage {
     this.form = formBuilder.group({
       profilePic: [''],
       name: ['', Validators.required],
-      about: ['']
+      surname: [''],
+      number: [''],
+
     });
 
     // Watch the form for changes, and
