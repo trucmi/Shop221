@@ -1,0 +1,366 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+
+/*
+Reset
+*/
+    html {
+        font-size: 62.5%;
+    }
+
+    *,
+    *:before,
+    *:after {
+        -webkit-box-sizing: border-box;
+                box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+    }
+body {
+    font-family: 'Raleway', sans-serif;
+    overflow:auto!important;
+}
+
+
+/* BANNIERE */
+
+.bg{
+  background-image: url(../img/background.jpg);
+
+}
+
+.small{
+  color: #fff;
+  background-repeat: no-repeat;
+  padding: 70px 0;
+  text-align: center
+}
+
+i {
+    margin-top: 1rem;
+}
+
+h2 {
+    margin-top: 5rem;
+    text-transform: uppercase;
+    font-family: 'Raleway', sans-serif;
+    color: #fff !important;
+    
+}
+
+button {
+    padding-left: 10%;
+    margin-left:20%;
+    
+}
+button img {
+    width:8%;
+}
+
+button a {
+    text-decoration: none;
+}
+
+figure.main-photo{
+    position: relative;
+    bottom:1rem;
+}
+
+img#mainphoto {
+    width: 12rem;
+    position: absolute;
+    bottom: 1%;
+    left: -3rem;
+}
+
+.artistes {
+    float: right;
+    left: 22rem;
+    position: absolute;
+    top: 22rem;
+}
+
+.artistes ul {
+    display: -webkit-box;
+    display: flex; */
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+            align-items: center;
+}
+
+.artistes img {
+    width: 6rem;
+    margin: 0 1rem;
+}
+
+
+figure {
+  width:300px;
+  position:relative;
+}
+
+
+
+/* HOVER artistes photos */
+
+li#fanny {
+    width:60px;
+    height:68px;
+    background: url('../img/photo_fanny.png') no-repeat;
+    display:inline-block;
+    margin-top:22%;
+}
+
+li#fanny:hover {
+    height:79px;   
+}
+
+li#camille {
+    width:60px;
+    height:68px;
+    background: url('../img/photo_camille.png') no-repeat;
+    display:inline-block;
+    margin-top:22%;
+}
+
+li#camille:hover {
+    height:79px;  
+}
+
+li#yann {
+    width:60px;
+    height:68px;
+    background: url('../img/photo_yann.png') no-repeat;
+    display:inline-block;
+    margin-top:22%;
+}
+
+li#yann:hover {
+    height:79px;   
+}
+
+
+li#patrice {
+    width:60px;
+    height:68px;
+    background: url('../img/photo_patrice.png') no-repeat;
+    display:inline-block;
+    margin-top:22%;
+}
+
+li#patrice:hover {
+    height:79px;   
+}
+
+
+
+
+ul .artistes{
+    display: inline-block;
+    
+}
+
+
+
+/* FLUX INSTAGRAM */
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff;
+  position: relative;
+}
+
+.igviewer {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  background-color: RGBA(29, 31, 32, 0.9);
+}
+.igviewer img {
+  display: block;
+  margin: 1rem auto;
+  height: -webkit-calc(100vh - 2rem);
+  height: calc(100vh - 2rem);
+  width: auto;
+  -webkit-box-shadow: 0px 10px 40px 10px rgba(0, 0, 0, 0.8);
+          box-shadow: 0px 10px 40px 10px rgba(0, 0, 0, 0.8);
+}
+.igviewer.hidden {
+  display: none;
+}
+
+.instagram {
+  display: -webkit-flex;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-flow: row wrap;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-flow: row wrap;
+          flex-flow: row wrap;
+  overflow: hidden;
+  width: 70%;
+  margin: 0 auto;
+}
+.instagram .image {
+  background-repeat: none;
+  background-position: center center;
+  -webkit-background-size: 100% 100%;
+          background-size: 100%;
+  width: 22%;
+  height: 248px;
+  margin: 1%;
+  overflow: hidden;
+  -webkit-transition: all 200ms ease;
+  -o-transition: all 200ms ease;
+  transition: all 200ms ease;
+  position: relative;
+  cursor: pointer;
+}
+.instagram .image .caption {
+  display: none;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(153, 0, 0, 0.7);
+  color: #FFF;
+  padding: 1em;
+  font-family: 'raleway';
+  font-size: 1.5em;
+}
+.instagram .image:hover {
+  -webkit-background-size: 110% 110%;
+          background-size: 110%;
+}
+.instagram .image:hover .caption {
+  display: block;
+}
+
+
+/* BOUTON "En voir plus" */
+
+* {
+  -webkit-box-sizing: inherit;
+          box-sizing: inherit;
+  -webkit-transition-property: all;
+  -o-transition-property: all;
+  transition-property: all;
+  -webkit-transition-duration: .6s;
+          -o-transition-duration: .6s;
+     transition-duration: .6s;
+  -webkit-transition-timing-function: ease;
+          -o-transition-timing-function: ease;
+     transition-timing-function: ease;
+}
+
+
+body {
+  background: white;
+  font-family: 'raleway', sans-serif;
+  font-weight: 400;
+}
+
+.buttons {
+  display: table;
+  top:83rem;
+  width: 100%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.container {
+  display: table-cell;
+  padding: 1em;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.btn {
+  color: #8B0000;
+  cursor: pointer;
+  display: block;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 45px;
+  margin: 0 auto 2em;
+  max-width: 160px;
+  position: relative;
+  text-decoration: none;
+  text-transform: uppercase;
+  vertical-align: middle;
+  width: 100%;
+}
+@media (min-width: 400px) {
+  .btn {
+    display: inline-block;
+    margin-right: 2.5em;
+  }
+  .btn:nth-of-type(even) {
+    margin-right: 0;
+  }
+}
+@media (min-width: 600px) {
+  .btn:nth-of-type(even) {
+    margin-right: 2.5em;
+  }
+  .btn:nth-of-type(5) {
+    margin-right: 0;
+  }
+}
+.btn:hover {
+  text-decoration: none;
+}
+
+
+.btn-2 {
+  letter-spacing: 0;
+}
+
+.btn-2:hover,
+.btn-2:active {
+  letter-spacing: 5px;
+}
+
+.btn-2:after,
+.btn-2:before {
+  -webkit-backface-visibility: hidden;
+          backface-visibility: hidden;
+  border: 1px solid rgba(138, 0, 0, 1);
+  bottom: 0px;
+  content: " ";
+  display: block;
+  margin: 0 auto;
+  position: relative;
+  -webkit-transition: all 280ms ease-in-out;
+  -o-transition: all 280ms ease-in-out;
+  transition: all 280ms ease-in-out;
+  width: 0;
+}
+
+.btn-2:hover:after,
+.btn-2:hover:before {
+  -webkit-backface-visibility: hidden;
+          backface-visibility: hidden;
+  border-color: #8B0000;
+  -webkit-transition: width 350ms ease-in-out;
+  -o-transition: width 350ms ease-in-out;
+  transition: width 350ms ease-in-out;
+  width: 70%;
+}
+
+.btn-2:hover:before {
+  bottom: auto;
+  top: 0;
+  width: 70%;
+}
+
