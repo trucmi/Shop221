@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+
+
+
+
+/*
+
+Reset
+
+*/
+
+    html {
+
+        font-size: 62.5%;
+
+    }
+
+
+
+    *,
+
+    *:before,
+
+    *:after {
+
+        -webkit-box-sizing: border-box;
+
+                box-sizing: border-box;
+
+        margin: 0;
+
+        padding: 0;
+
+    }
+
+body {
+
+    font-family: 'Raleway', sans-serif;
+
+    overflow:auto!important;
+
+}
+
+
+
+
+
+/* BANNIERE */
+
+
+
+.bg{
+
+	background-image: url(../img/background.jpg);
+
+
+
+}
+
+
+
+.small{
+
+	color: #fff;
+
+	background-repeat: no-repeat;
+
+	padding: 70px 0;
+
+	text-align: center
+
+}
+
+
+
+section {
+
+		margin-bottom: 4%;
+
+}
+
+
+
+i {
+
+    margin-top: 1rem;
+
+}
+
+
+
+h2 {
+
+    margin-top: 5rem;
+
+    text-transform: uppercase;
+
+    font-family: 'Raleway', sans-serif;
+
+    color: #fff !important;
+
+}
+
+
+
+
+
+body {
+
+  background: white;
+
+  font-family: 'raleway', sans-serif;
+
+  font-weight: 400;
+
+}
+
+a#Mentions, a#Conv, a#faq, li {
+  text-decoration: none;
+}
+
+

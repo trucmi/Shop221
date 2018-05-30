@@ -1,0 +1,226 @@
+[02-Jul-2017 13:49:46 UTC] PHP Notice:  Undefined variable: pdo in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 13:49:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rmspa938/public_html/atom/inc/footer.php:27
+Stack trace:
+#0 /home/rmspa938/public_html/atom/creations_fanny.php(34): include()
+#1 {main}
+  thrown in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 13:49:55 UTC] PHP Notice:  Undefined variable: pdo in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 13:49:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rmspa938/public_html/atom/inc/footer.php:27
+Stack trace:
+#0 /home/rmspa938/public_html/atom/conventions.php(27): include()
+#1 {main}
+  thrown in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 13:51:21 UTC] PHP Notice:  Undefined variable: pdo in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 13:51:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rmspa938/public_html/atom/inc/footer.php:27
+Stack trace:
+#0 /home/rmspa938/public_html/atom/conventions.php(27): include()
+#1 {main}
+  thrown in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 13:52:07 UTC] PHP Notice:  Undefined variable: pdo in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 13:52:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rmspa938/public_html/atom/inc/footer.php:27
+Stack trace:
+#0 /home/rmspa938/public_html/atom/mentions-legales.php(115): include()
+#1 {main}
+  thrown in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 16:43:21 UTC] PHP Notice:  Undefined variable: pdo in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 16:43:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rmspa938/public_html/atom/inc/footer.php:27
+Stack trace:
+#0 /home/rmspa938/public_html/atom/faq.php(192): include()
+#1 {main}
+  thrown in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 16:43:30 UTC] PHP Notice:  Undefined variable: pdo in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 16:43:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rmspa938/public_html/atom/inc/footer.php:27
+Stack trace:
+#0 /home/rmspa938/public_html/atom/mentions-legales.php(115): include()
+#1 {main}
+  thrown in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 16:43:34 UTC] PHP Notice:  Undefined variable: pdo in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 16:43:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rmspa938/public_html/atom/inc/footer.php:27
+Stack trace:
+#0 /home/rmspa938/public_html/atom/conventions.php(27): include()
+#1 {main}
+  thrown in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 16:43:45 UTC] PHP Notice:  Undefined variable: pdo in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 16:43:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rmspa938/public_html/atom/inc/footer.php:27
+Stack trace:
+#0 /home/rmspa938/public_html/atom/creations_patrice.php(34): include()
+#1 {main}
+  thrown in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 16:46:24 UTC] PHP Notice:  Undefined variable: pdo in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 16:46:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rmspa938/public_html/atom/inc/footer.php:27
+Stack trace:
+#0 /home/rmspa938/public_html/atom/creations_camille.php(34): include()
+#1 {main}
+  thrown in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 16:47:20 UTC] PHP Notice:  Undefined variable: pdo in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 16:47:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rmspa938/public_html/atom/inc/footer.php:27
+Stack trace:
+#0 /home/rmspa938/public_html/atom/creations_camille.php(34): include()
+#1 {main}
+  thrown in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 16:47:21 UTC] PHP Notice:  Undefined variable: pdo in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 16:47:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rmspa938/public_html/atom/inc/footer.php:27
+Stack trace:
+#0 /home/rmspa938/public_html/atom/creations_camille.php(34): include()
+#1 {main}
+  thrown in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 16:48:59 UTC] PHP Notice:  Undefined variable: pdo in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 16:48:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rmspa938/public_html/atom/inc/footer.php:27
+Stack trace:
+#0 /home/rmspa938/public_html/atom/creations_camille.php(34): include()
+#1 {main}
+  thrown in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 19:41:21 UTC] PHP Notice:  Undefined variable: pdo in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 19:41:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rmspa938/public_html/atom/inc/footer.php:27
+Stack trace:
+#0 /home/rmspa938/public_html/atom/creations_fanny.php(33): include()
+#1 {main}
+  thrown in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 19:41:40 UTC] PHP Notice:  Undefined variable: pdo in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 19:41:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rmspa938/public_html/atom/inc/footer.php:27
+Stack trace:
+#0 /home/rmspa938/public_html/atom/creations_fanny.php(33): include()
+#1 {main}
+  thrown in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 21:05:24 UTC] PHP Notice:  Undefined variable: pdo in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 21:05:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rmspa938/public_html/atom/inc/footer.php:27
+Stack trace:
+#0 /home/rmspa938/public_html/atom/creations_camille.php(34): include()
+#1 {main}
+  thrown in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 21:05:53 UTC] PHP Notice:  Undefined variable: pdo in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 21:05:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rmspa938/public_html/atom/inc/footer.php:27
+Stack trace:
+#0 /home/rmspa938/public_html/atom/creations_camille.php(34): include()
+#1 {main}
+  thrown in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 21:06:16 UTC] PHP Notice:  Undefined variable: pdo in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 21:06:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rmspa938/public_html/atom/inc/footer.php:27
+Stack trace:
+#0 /home/rmspa938/public_html/atom/conventions.php(27): include()
+#1 {main}
+  thrown in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 21:06:18 UTC] PHP Notice:  Undefined variable: pdo in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 21:06:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rmspa938/public_html/atom/inc/footer.php:27
+Stack trace:
+#0 /home/rmspa938/public_html/atom/mentions-legales.php(115): include()
+#1 {main}
+  thrown in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 21:06:22 UTC] PHP Notice:  Undefined variable: pdo in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 21:06:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rmspa938/public_html/atom/inc/footer.php:27
+Stack trace:
+#0 /home/rmspa938/public_html/atom/conventions.php(27): include()
+#1 {main}
+  thrown in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 21:06:26 UTC] PHP Notice:  Undefined variable: pdo in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 21:06:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rmspa938/public_html/atom/inc/footer.php:27
+Stack trace:
+#0 /home/rmspa938/public_html/atom/creations_yann.php(33): include()
+#1 {main}
+  thrown in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 21:06:35 UTC] PHP Notice:  Undefined variable: pdo in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 21:06:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rmspa938/public_html/atom/inc/footer.php:27
+Stack trace:
+#0 /home/rmspa938/public_html/atom/conventions.php(27): include()
+#1 {main}
+  thrown in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 21:06:45 UTC] PHP Notice:  Undefined variable: pdo in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 21:06:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rmspa938/public_html/atom/inc/footer.php:27
+Stack trace:
+#0 /home/rmspa938/public_html/atom/creations_camille.php(34): include()
+#1 {main}
+  thrown in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 21:06:52 UTC] PHP Notice:  Undefined variable: pdo in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 21:06:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rmspa938/public_html/atom/inc/footer.php:27
+Stack trace:
+#0 /home/rmspa938/public_html/atom/creations_yann.php(33): include()
+#1 {main}
+  thrown in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 21:07:09 UTC] PHP Notice:  Undefined variable: pdo in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 21:07:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rmspa938/public_html/atom/inc/footer.php:27
+Stack trace:
+#0 /home/rmspa938/public_html/atom/creations_patrice.php(33): include()
+#1 {main}
+  thrown in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 21:07:41 UTC] PHP Notice:  Undefined variable: pdo in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 21:07:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rmspa938/public_html/atom/inc/footer.php:27
+Stack trace:
+#0 /home/rmspa938/public_html/atom/creations_patrice.php(33): include()
+#1 {main}
+  thrown in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 21:07:50 UTC] PHP Notice:  Undefined variable: pdo in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 21:07:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rmspa938/public_html/atom/inc/footer.php:27
+Stack trace:
+#0 /home/rmspa938/public_html/atom/creations_camille.php(34): include()
+#1 {main}
+  thrown in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 21:08:27 UTC] PHP Notice:  Undefined variable: pdo in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 21:08:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rmspa938/public_html/atom/inc/footer.php:27
+Stack trace:
+#0 /home/rmspa938/public_html/atom/conventions.php(27): include()
+#1 {main}
+  thrown in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 21:34:46 UTC] PHP Notice:  Undefined variable: pdo in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 21:34:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rmspa938/public_html/atom/inc/footer.php:27
+Stack trace:
+#0 /home/rmspa938/public_html/atom/mentions-legales.php(115): include()
+#1 {main}
+  thrown in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 21:34:50 UTC] PHP Notice:  Undefined variable: pdo in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 21:34:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rmspa938/public_html/atom/inc/footer.php:27
+Stack trace:
+#0 /home/rmspa938/public_html/atom/creations_patrice.php(33): include()
+#1 {main}
+  thrown in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 21:35:18 UTC] PHP Notice:  Undefined variable: pdo in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 21:35:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rmspa938/public_html/atom/inc/footer.php:27
+Stack trace:
+#0 /home/rmspa938/public_html/atom/creations_patrice.php(33): include()
+#1 {main}
+  thrown in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 21:35:25 UTC] PHP Notice:  Undefined variable: pdo in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 21:35:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rmspa938/public_html/atom/inc/footer.php:27
+Stack trace:
+#0 /home/rmspa938/public_html/atom/creations_camille.php(34): include()
+#1 {main}
+  thrown in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 21:35:47 UTC] PHP Notice:  Undefined variable: pdo in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 21:35:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rmspa938/public_html/atom/inc/footer.php:27
+Stack trace:
+#0 /home/rmspa938/public_html/atom/mentions-legales.php(115): include()
+#1 {main}
+  thrown in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 21:36:16 UTC] PHP Notice:  Undefined variable: pdo in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 21:36:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rmspa938/public_html/atom/inc/footer.php:27
+Stack trace:
+#0 /home/rmspa938/public_html/atom/mentions-legales.php(115): include()
+#1 {main}
+  thrown in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 21:37:15 UTC] PHP Notice:  Undefined variable: objet in /home/rmspa938/public_html/atom/contact.php on line 98
+[02-Jul-2017 21:46:04 UTC] PHP Notice:  Undefined variable: pdo in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 21:46:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rmspa938/public_html/atom/inc/footer.php:27
+Stack trace:
+#0 /home/rmspa938/public_html/atom/creations_camille.php(34): include()
+#1 {main}
+  thrown in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 21:46:57 UTC] PHP Notice:  Undefined variable: pdo in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 21:46:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rmspa938/public_html/atom/inc/footer.php:27
+Stack trace:
+#0 /home/rmspa938/public_html/atom/creations_yann.php(33): include()
+#1 {main}
+  thrown in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 22:48:19 UTC] PHP Notice:  Undefined variable: pdo in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 22:48:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rmspa938/public_html/atom/inc/footer.php:27
+Stack trace:
+#0 /home/rmspa938/public_html/atom/mentions-legales.php(115): include()
+#1 {main}
+  thrown in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 22:48:21 UTC] PHP Notice:  Undefined variable: pdo in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[02-Jul-2017 22:48:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rmspa938/public_html/atom/inc/footer.php:27
+Stack trace:
+#0 /home/rmspa938/public_html/atom/mentions-legales.php(115): include()
+#1 {main}
+  thrown in /home/rmspa938/public_html/atom/inc/footer.php on line 27
+[03-Jul-2017 09:57:53 UTC] PHP Notice:  Undefined variable: objet in /home/rmspa938/public_html/atom/contact.php on line 98
+[03-Jul-2017 10:16:27 UTC] PHP Notice:  Undefined variable: objet in /home/rmspa938/public_html/atom/contact.php on line 98
+[03-Jul-2017 10:28:24 UTC] PHP Notice:  Undefined variable: objet in /home/rmspa938/public_html/atom/contact.php on line 98

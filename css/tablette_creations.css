@@ -1,0 +1,14 @@
+ul.artistes {
+    width: 100%;
+    position: relative;
+    top: -20%;
+    left: 0;
+    right: 0;
+    text-align: center;
+}
+
+li#patrice, li#yann, li#fanny, li#camille{
+    margin-top:0;
+    
+}
+

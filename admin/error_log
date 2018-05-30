@@ -1,0 +1,2 @@
+[03-Jul-2017 10:08:34 UTC] PHP Fatal error:  Cannot redeclare debug() (previously declared in /home/rmspa938/public_html/atom/admin/inc/init.inc.php:53) in /home/rmspa938/public_html/atom/admin/inc/init.inc.php on line 81
+[03-Jul-2017 10:09:26 UTC] PHP Fatal error:  Cannot redeclare debug() (previously declared in /home/rmspa938/public_html/atom/admin/inc/init.inc.php:53) in /home/rmspa938/public_html/atom/admin/inc/init.inc.php on line 81
